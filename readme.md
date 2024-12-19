@@ -245,35 +245,35 @@ We identified the 17 kinds of priority illegal content that need to be separatel
 
 * Child Sexual Abuse Material (CSAM) - URLs
 
-1. Hate
+3. Hate
 
-2. Harassment, stalking, threats, and abuse
+4. Harassment, stalking, threats, and abuse
 
-3. Controlling or coercive behaviour
+5. Controlling or coercive behaviour
 
-4. Intimate image abuse
+6. Intimate image abuse
 
-5. Extreme pornography
+7. Extreme pornography
 
-6. Sexual exploitation of adults
+8. Sexual exploitation of adults
 
-7. Human trafficking
+9. Human trafficking
 
-8. Unlawful immigration
+10. Unlawful immigration
 
-9. Fraud and financial offences
+11. Fraud and financial offences
 
-10. Proceeds of crime
+12. Proceeds of crime
 
-11. Drugs and psychoactive substances
+13. Drugs and psychoactive substances
 
-12. Firearms, knives, and other weapons
+14. Firearms, knives, and other weapons
 
-13. Encouraging or assisting suicide
+15. Encouraging or assisting suicide
 
-14. Foreign interference
+16. Foreign interference
 
-15. Animal cruelty
+17. Animal cruelty
 
 We also identified whether there is a risk of other illegal content taking place on our service, including relevant non-priority illegal content. We consulted Ofcom's Risk Profiles and identified the key risk factors relevant to our service for each of the 17 kinds of priority illegal content. These are detailed in section 7.5.
 
