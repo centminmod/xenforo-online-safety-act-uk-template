@@ -129,6 +129,11 @@ Nevertheless, we are committed to taking all reasonably practicable steps to com
 
 We also transparently highlight the severe limitations we face in fully implementing the Act's requirements and emphasize that our efforts represent a "best effort" attempt at compliance, given our circumstances. We have used Ofcom's published guidance, including the "Risk Assessment Guidance and Risk Profiles" (December 16, 2024), to inform our approach, and we will continue to monitor their publications for updates.
 
+We have reviewed and incorporated, as far as practicable given our resources, the measures detailed in Ofcom's Illegal Content Codes of Practice for user-to-user services (May 2024) into our online safety approach. We understand that implementing these recommended measures, to the extent that we are able, will be considered as compliance with the relevant duties under the OSA. We have indicated throughout this document where these measures have been integrated, and where we have been forced to implement alternative measures due to resource constraints. We understand that our chosen alternative measures must still meet the requirements of the Act, and we must also maintain a record of what they are, how they work and how we consider them to meet the relevant duties, including how they comply with the duty to have particular regard to the importance of protecting freedom of expression and privacy.
+
+We understand that implementing the recommended measures in the Codes will involve the processing of personal data. We are committed to taking a 'data protection by design and default' approach and will comply fully with data protection law, including guidance issued by the Information Commissioner's Office (ICO), when taking measures for the purpose of complying with our online safety duties under the Act.
+
+
 ## 2. Scope
 
 This policy applies to all users of [Forum Name]. It covers our approach to:
@@ -163,6 +168,8 @@ Our online safety approach is guided by the following principles:
 
 * Privacy: We are committed to protecting user privacy, as outlined in the OSA, and will handle personal data in accordance with data protection laws. We are deeply concerned about the potential implications of the OSA for privacy, including the provisions related to encrypted services and the requirement to scan for certain types of content. We do not currently use end-to-end encryption on this forum.
 
+* Good Faith Compliance: We are committed to making a good faith effort to comply with the OSA and to adopt, where practicable, the measures outlined in Ofcom's Codes of Practice within our significant limitations as a small, volunteer-run platform. We will document our efforts and decisions to demonstrate this commitment, using Ofcom's resources as a guide, particularly the index of recommended measures in Section 3 of the Codes.
+
 ## 4. Our Duties Under the Online Safety Act (OSA)
 
 We understand that the OSA imposes several duties on online services, including "user-to-user services" like our forum. These duties include, but are not limited to:
@@ -195,6 +202,11 @@ We understand that the OSA imposes several duties on online services, including 
 
 * Considering user privacy when making decisions about content moderation and data handling. We are concerned about the potential implications of the OSA for privacy, including the provisions related to encrypted services and content scanning.
 
+* We will prioritize our compliance efforts, focusing on the implementation of measures outlined in Ofcom's Codes of Practice where they are most applicable to our service, considering our risk assessments and resource constraints.
+
+* We understand that the duties outlined in the OSA do not extend to certain types of content or activities on combined services, as defined in section 8 of the Act. Specifically, we note that our duties do not extend to regulated provider pornographic content (if applicable), search content, or other content encountered as a result of subsequent interactions with internet services following a search request. We also note that our duties extend only to the design, operation and use of the service in the United Kingdom and the design, operation and use of the service as it affects United Kingdom users of the service.
+
+
 ## 5. Complaint Process
 
 ### 5.1 How to Submit a Complaint:
@@ -205,13 +217,15 @@ We understand that the OSA imposes several duties on online services, including 
 
 * Specify the nature of the issue, clearly indicating whether you believe the content or behavior is illegal under the OSA, harmful (and if so, to whom), or a violation of our community guidelines.
 
-* Reference specific OSA provisions, Ofcom guidance, or sections of our community guidelines where possible. This will assist our volunteer moderators in assessing the complaint. Use Ofcom's published resources to help identify the relevant provisions.
+* Reference specific OSA provisions, Ofcom guidance (including the Codes of Practice), or sections of our community guidelines where possible. This will assist our volunteer moderators in assessing the complaint. Use Ofcom's published resources to help identify the relevant provisions.
 
 * Indicate the urgency of the matter if you believe it involves an imminent threat to life or serious illegal activity.
 
 * Email: You may send an email to [Designated Complaints Email - if you have one. If not, explain the limitations and that this method should only be used for complex issues or when the report button is not applicable]. This method may have significantly slower response times due to our volunteer capacity. Use this method only when the "Report" button is not applicable or when you need to provide extensive documentation.
 
 * Private Message: Contact a moderator directly via private message (see moderator list [Link]). This method may have very slow response times due to volunteer availability and should be reserved for urgent matters or when other methods are not suitable. We cannot guarantee a timely response via this method.
+
+We will prioritize complaints that involve potential violations of the OSA, especially those related to priority offenses or serious harm, and align with the measures outlined in Ofcom's Codes of Practice. We will give appropriate priority to processing complaints received from trusted flaggers via our dedicated reporting channel, as detailed in section 5.4 of this document, where that reporting channel is in accordance with measure ICU D14.
 
 ### 5.2 Information to Include in Your Complaint:
 
@@ -235,7 +249,7 @@ When submitting a complaint, please provide as much of the following information
 
 * Initial Assessment: A volunteer moderator will review the complaint to determine: 
 
-* Whether the reported content or behavior falls within the scope of this procedure and the OSA.
+* Whether the reported content or behavior falls within the scope of this procedure and whether the complaint aligns with the recommended measures in Ofcom's Codes of Practice, especially regarding reporting and complaint procedures. (ICU D1 to ICU D14).
 
 * The urgency and severity of the issue, prioritizing illegal content, content harmful to children, and content posing an immediate threat. We will use Ofcom's guidance to help us assess the severity of the reported content.
 
@@ -275,15 +289,26 @@ When submitting a complaint, please provide as much of the following information
 
 * We will not disclose specific actions taken against other users due to privacy concerns, resource constraints, and potential legal implications.
 
-* Appeals (Very Limited): If you disagree with the outcome of your complaint regarding content moderation, you can appeal by contacting [Method, e.g., the forum administrator via private message]. Appeals will only be considered in exceptional circumstances and when volunteer resources permit, due to severe resource limitations. Appeals are not available for complaints regarding our alleged failure to uphold our terms of service.
+* Appeals (Very Limited): If you disagree with the outcome of your complaint regarding content moderation, you can appeal by contacting [Method, e.g., the forum administrator via private message]. Appeals will only be considered in exceptional circumstances, and only if the appeal is made about content that we have taken a decision on (i.e., it is not an appeal made in relation to a complaint about our alleged failure to uphold our terms of service), and when volunteer resources permit, due to severe resource limitations. Appeals are not available for complaints regarding our alleged failure to uphold our terms of service. (ICU D7 to ICU D10).
+
+### 5.4 Dedicated Reporting Channel for Trusted Flaggers: 
+
+* We will, where practicable and within our limited resources, establish and maintain a dedicated reporting channel for trusted flaggers, as defined by Ofcom's Codes of Practice. This channel will be designed to handle reports of potentially illegal content efficiently and effectively. Where we implement this measure, the dedicated reporting channel will adhere to measures ICU D14.3 to ICU D14.8 as far as possible within our limited resources, and will ensure that reports from trusted flaggers are prioritized and processed promptly. We will make our existing reporting channel available to trusted flaggers if it is run in accordance with measures ICU D14.3 to ICU D14.8. We will regularly review the operation of this channel and make improvements where possible. (ICU D14)
+
+### 5.5 "Processing Complaints from other Users: 
+
+* We will make available a notice facility for users to report potentially illegal content that they encounter on our service. This facility will be easy to access and use, and will allow users to report content anonymously, if they so choose. We will ensure that reports received through this notice facility are assessed and that, where we become aware of illegal content, action is taken expeditiously to remove or disable access to that content. Where a user has provided contact details, we will endeavour to, within our limited resources, notify the user that we have received their complaint and, where we decide to take action to remove or disable access to content, we will notify the user of this decision and the reasons for it as soon as reasonably practicable. (ICU D1 to ICU D6)
+
 
 ## 6. Content Moderation and Safety Measures
 
 In addition to our complaint process, we are taking the following steps to address online safety, within our extremely limited capacity:
 
+* We will strive to align our content moderation practices with the recommended measures in Ofcom's Codes of Practice, particularly regarding the functions of content moderation teams (ICU C1-C4), prioritising measures that we are able to implement within our limited resources. However, our capacity in this area is severely restricted.
+
 * Community Guidelines: We have established clear community guidelines [Link to Guidelines] that prohibit illegal and harmful content, as defined by the OSA, Ofcom's guidance, and our own standards. These guidelines specifically address the types of content listed as "priority offences" and content harmful to children ("Primary Priority Content" and "Priority Content") in the Act, as well as content related to self-harm, eating disorders, suicide, and various forms of abuse and hate, as outlined by Ofcom.
 
-* Volunteer Moderators: Our volunteer moderators monitor the forum for content that violates our guidelines or the law. However, their availability and capacity are severely limited. We cannot guarantee 24/7 coverage, comprehensive monitoring of all content, or immediate responses to all issues.
+* Volunteer Moderators: Our volunteer moderators monitor the forum for content that violates our guidelines or the law. Their responsibilities include reviewing reported content, assessing it against our community guidelines and the requirements of the OSA, taking appropriate action to remove or disable access to illegal content, escalating serious cases to the appropriate authorities where necessary (and within our limited resources), and, where possible, providing feedback to users who have reported content (within our limited resources). However, their availability and capacity are severely limited. We cannot guarantee 24/7 coverage, comprehensive monitoring of all content, or immediate responses to all issues.
 
 * Automated Filtering (Very Basic): We may use very basic automated filters to detect and block certain keywords or phrases associated with the most serious types of illegal content, such as CSAM or terrorist content. We do not have the resources for sophisticated AI-based moderation, proactive scanning of all content, or advanced filtering technologies. Any automated filtering will be limited to simple keyword matching and will be subject to human review where possible.
 
@@ -1041,7 +1066,7 @@ We will also respect user privacy and handle personal data in accordance with da
 
 ## 10. Record Keeping
 
-We will maintain records of complaints, investigations, actions taken, and risk assessments to the best of our ability, in compliance with data protection regulations and the OSA. However, our record-keeping capacity is limited by our volunteer nature, lack of dedicated systems, and reliance on basic tools. We will prioritize record-keeping for cases involving illegal content and content harmful to children, particularly for any complaints related to our enforcement of our terms of service. We will use Ofcom's guidance on record-keeping to inform our practices, but our implementation will necessarily be limited by our resources.
+We will maintain records of complaints, investigations, actions taken, and risk assessments to the best of our ability, in compliance with data protection regulations and the OSA, and with due regard to Ofcom's Codes of Practice, particularly regarding the complaints and appeals processes. (ICU D1 to ICU D14).. However, our record-keeping capacity is limited by our volunteer nature, lack of dedicated systems, and reliance on basic tools. We will prioritize record-keeping for cases involving illegal content and content harmful to children, particularly for any complaints related to our enforcement of our terms of service. We will use Ofcom's guidance on record-keeping to inform our practices, but our implementation will necessarily be limited by our resources.
 
 ## 11. Review and Updates
 
@@ -1083,7 +1108,7 @@ This document should not be considered legal advice. We have not had the benefit
 
 * We will acknowledge your complaint within [Timeframe, e.g., 7 days] if contact information is provided and resources permit.
 
-* We will investigate your complaint to the best of our ability, given our limited resources, and aim to provide a response within [Timeframe, e.g., 30 days]. However, due to our volunteer capacity, delays may occur.
+* We will investigate your complaint to the best of our ability, given our limited resources, and aim to provide a response within [Timeframe, e.g., 30 days], in line with the timeframes outlined in Ofcom's Codes of Practice where applicable (ICU D7 to ICU D10). However, due to our volunteer capacity, delays may occur.
 
 * Limitations: Our capacity to investigate and resolve such complaints is severely limited. We may not be able to provide detailed explanations for our decisions or offer remedies beyond those available through our standard content moderation process.
 
