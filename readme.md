@@ -1,4 +1,4 @@
-Below is a draft template for forum community owners and operations to handle the pending UK Online Safety Act (OSA) requirements outlined at https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer.
+Below is a draft template for forum community owners and operations to handle the pending UK Online Safety Act (OSA) requirements outlined at https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer. Consult the [Online Safety Regulation Checker](https://ofcomlive.my.salesforce-sites.com/formentry/RegulationChecker) to see if it applies to you.
 
 ----
 
