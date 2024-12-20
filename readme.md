@@ -295,7 +295,7 @@ When submitting a complaint, please provide as much of the following information
 
 * We will, where practicable and within our limited resources, establish and maintain a dedicated reporting channel for trusted flaggers, as defined by Ofcom's Codes of Practice. This channel will be designed to handle reports of potentially illegal content efficiently and effectively. Where we implement this measure, the dedicated reporting channel will adhere to measures ICU D14.3 to ICU D14.8 as far as possible within our limited resources, and will ensure that reports from trusted flaggers are prioritized and processed promptly. We will make our existing reporting channel available to trusted flaggers if it is run in accordance with measures ICU D14.3 to ICU D14.8. We will regularly review the operation of this channel and make improvements where possible. (ICU D14)
 
-### 5.5 "Processing Complaints from other Users: 
+### 5.5 Processing Complaints from other Users: 
 
 * We will make available a notice facility for users to report potentially illegal content that they encounter on our service. This facility will be easy to access and use, and will allow users to report content anonymously, if they so choose. We will ensure that reports received through this notice facility are assessed and that, where we become aware of illegal content, action is taken expeditiously to remove or disable access to that content. Where a user has provided contact details, we will endeavour to, within our limited resources, notify the user that we have received their complaint and, where we decide to take action to remove or disable access to content, we will notify the user of this decision and the reasons for it as soon as reasonably practicable. (ICU D1 to ICU D6)
 
