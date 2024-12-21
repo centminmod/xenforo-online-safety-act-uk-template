@@ -1170,6 +1170,8 @@ Key Considerations and Potential Adjustments:
 
 * **Trusted Flagger:** An individual or organization recognized by Ofcom for reliably reporting illegal content.
 
+* **Large Service:** A service which has more than 7 million monthly active United Kingdom users.
+
 ## 16. Index of Recommended Measures
 
 An index of recommented measures relevant for forums.
