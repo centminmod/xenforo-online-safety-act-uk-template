@@ -1,4 +1,4 @@
-Below is a draft template for forum community owners and operations to handle the pending UK Online Safety Act (OSA) requirements outlined at https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer and [four step risk assessment process](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/quick-guide-to-online-safety-risk-assessments/). Consult the [Online Safety Regulation Checker](https://ofcomlive.my.salesforce-sites.com/formentry/RegulationChecker) to see if it applies to you.
+Below is a draft template for forum community owners and operations to handle the pending UK Online Safety Act (OSA) requirements outlined at https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer and [four step risk assessment process](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/quick-guide-to-online-safety-risk-assessments/) (see [summary here](/risk-assessment-overview.md)). Consult the [Online Safety Regulation Checker](https://ofcomlive.my.salesforce-sites.com/formentry/RegulationChecker) to see if it applies to you.
 
 ----
 
@@ -76,7 +76,7 @@ Do any exemptions apply to your online service?
 
 ----
 
-# Table of Contents
+# Draft Template Table of Contents
 
 1.  [Introduction](#1-introduction)
 2.  [Scope](#2-scope)
