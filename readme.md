@@ -120,6 +120,8 @@ Do any exemptions apply to your online service?
     *   [14.1 Internal Redress for Content Moderation Decisions:](#141-internal-redress-for-content-moderation-decisions)
     *   [14.2 Complaints About Our Enforcement of Terms of Service:](#142-complaints-about-our-enforcement-of-terms-of-service)
     *   [14.3 External Redress:](#143-external-redress)
+15. [Definitions and Interpretation](#15-definitions-and-interpretation)
+16. [Index of Recommended Measures](#16-index-of-recommended-measures)
 
 # [Forum Name] Online Safety Act Compliance and Complaint Procedure
 
@@ -295,7 +297,7 @@ When submitting a complaint, please provide as much of the following information
 
 * Appeals (Very Limited): If you disagree with the outcome of your complaint regarding content moderation, you can appeal by contacting [Method, e.g., the forum administrator via private message]. Appeals will only be considered in exceptional circumstances, and only if the appeal is made about content that we have taken a decision on (i.e., it is not an appeal made in relation to a complaint about our alleged failure to uphold our terms of service), and when volunteer resources permit, due to severe resource limitations. Appeals are not available for complaints regarding our alleged failure to uphold our terms of service. (ICU D7 to ICU D10).
 
-### 5.4 Dedicated Reporting Channel for Trusted Flaggers: 
+### 5.4 Dedicated Reporting Channel for Trusted Flaggers (ICU D14): 
 
 * We will, where practicable and within our limited resources, establish and maintain a dedicated reporting channel for trusted flaggers, as defined by Ofcom's Codes of Practice. This channel will be designed to handle reports of potentially illegal content efficiently and effectively. Where we implement this measure, the dedicated reporting channel will adhere to measures ICU D14.3 to ICU D14.8 as far as possible within our limited resources, and will ensure that reports from trusted flaggers are prioritized and processed promptly. We will make our existing reporting channel available to trusted flaggers if it is run in accordance with measures ICU D14.3 to ICU D14.8. We will regularly review the operation of this channel and make improvements where possible. (ICU D14)
 
@@ -1072,17 +1074,33 @@ We will also respect user privacy and handle personal data in accordance with da
 
 We will maintain records of complaints, investigations, actions taken, and risk assessments to the best of our ability, in compliance with data protection regulations and the OSA, and with due regard to Ofcom's Codes of Practice, particularly regarding the complaints and appeals processes. (ICU D1 to ICU D14).. However, our record-keeping capacity is limited by our volunteer nature, lack of dedicated systems, and reliance on basic tools. We will prioritize record-keeping for cases involving illegal content and content harmful to children, particularly for any complaints related to our enforcement of our terms of service. We will use Ofcom's guidance on record-keeping to inform our practices, but our implementation will necessarily be limited by our resources.
 
+We maintain records of:
+
+* All complaints received, including details and actions taken.
+* Risk assessments conducted and their outcomes.
+* Actions taken in response to illegal content reports.
+
+These records are kept securely and are accessible for review as required by the OSA and data protection regulations. Due to our volunteer-run nature, record-keeping is managed using basic tools, prioritizing cases involving illegal content and child safety.
+
+
 ## 11. Review and Updates
 
 This policy will be reviewed and updated periodically, or as needed to reflect changes in the law, Ofcom's guidance, or our forum's operations. These reviews will be subject to the availability of volunteers and will be limited in scope. We will prioritize updates related to the most significant changes in the OSA's requirements or Ofcom's guidance. We will aim to review this policy at least annually.
 
 ## 12. Contact Us
 
-If you have any questions about this policy or our online safety practices, please contact us at [Your Contact Information].
+For questions or concerns about this policy or our online safety practices, please contact us at:
+
+* Email: [Your Contact Email]
+* Private Message: [Link to Moderator List]
+
+We strive to respond to all inquiries as promptly as possible within our volunteer capacity.
 
 ## 13. Limitations and Disclaimer
 
 This document represents our good faith effort to comply with the UK Online Safety Act as a small, volunteer-run online forum. We have extremely limited resources (financial, technical, and personnel) and cannot guarantee the same level of online safety, responsiveness, or investigative capacity as larger platforms with dedicated staff, advanced technology, and legal expertise.
+
+Where we implement alternative measures, we ensure they meet the Act's requirements, particularly regarding freedom of expression and privacy. These alternatives are documented and reviewed regularly.
 
 We may need to adjust our approach based on our capacity, evolving legal requirements, and guidance from Ofcom. We will prioritize addressing the most serious risks and harms, particularly those involving illegal content as defined by the OSA, and especially content related to the "priority offences" listed in the Act.
 
@@ -1142,5 +1160,34 @@ Key Considerations and Potential Adjustments:
 
 * Community Feedback: Regularly solicit and consider feedback from your user community on your online safety policies and practices.
 
-[Date of Last Update]
+## 15. Definitions and Interpretation
+
+* **Risk of a Kind of Illegal Harm:** The potential for users to encounter specific types of illegal content, assessed based on Ofcom's Risk Profiles.
+
+* **Multi-Risk Service:** A service that is at medium or high risk of two or more kinds of illegal harm.
+
+* **Active United Kingdom User:** Any UK user who has accessed the user-to-user part of the service within the last month.
+
+* **Trusted Flagger:** An individual or organization recognized by Ofcom for reliably reporting illegal content.
+
+## 16. Index of Recommended Measures
+
+An index of recommented measures relevant for forums.
+
+| Recommended Measure | Code | Description |
+|---|---|---|
+| Annual review of risk management activities | ICU A1 |  Applies to large services and includes a review of illegal content risks and monitoring developing risks |
+| Individual accountable for illegal content safety duties and reporting/complaints duties | ICU A2 | Applies to all services and requires a designated individual responsible for these duties |
+| Written statements of responsibilities | ICU A3 | Applies to large or multi-risk services and requires written statements of responsibilities for senior managers handling illegal content risks |
+| Internal monitoring and assurance | ICU A4 | Applies to large multi-risk services and requires an internal function to ensure measures against illegal content are effective |
+| Tracking evidence of new and increasing illegal harm | ICU A5 | Applies to large or multi-risk services and requires tracking and reporting new types and increases in illegal content |
+| Code of conduct regarding protection of users from illegal harm | ICU A6 | Applies to large or multi-risk services and requires a code of conduct for staff on protecting users from illegal content |
+| Compliance training | ICU A7 | Applies to large or multi-risk services and requires training staff on compliance with illegal content duties |
+| Terms of service: substance (all services) | ICU G1 | Applies to all services and requires terms of service to include illegal content protections, proactive technology information, and complaints processes | 
+| Terms of service: clarity and accessibility | ICU G3 | Applies to all services and requires terms of service to be easy to find, accessible, and written in plain language |
+| User blocking and muting | ICU J1 | Applies to large services with profiles and communication functions, and requires offering blocking and muting options for users |
+
+## [Date of Last Update]
+
+This policy was last updated on [Insert Date].
 
