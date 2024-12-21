@@ -1,6 +1,6 @@
 Below is a draft template for forum community owners and operations to handle the pending UK [Online Safety Act (OSA)](https://www.legislation.gov.uk/ukpga/2023/50/contents/enacted) requirements outlined at https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer and [four step risk assessment process](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/quick-guide-to-online-safety-risk-assessments/) (see [summary here](/risk-assessment-overview.md)).
 
-Consult the [Online Safety Regulation Checker](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/check/) to see if it applies to you. And check important dates for Online Safety Aact at https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/important-dates-for-online-safety-compliance/.
+Consult the [Online Safety Regulation Checker](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/check/) to see if it applies to you. And check [important dates for Online Safety Act](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/important-dates-for-online-safety-compliance/).
 
 ----
 
