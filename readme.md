@@ -1095,8 +1095,8 @@ Because [children are likely to access our forum], we have conducted a children'
 
 Based on our children's access assessment and the nature of our content, we have determined that [choose one]:
 
-    * Our forum requires age assurance measures because [explain reasoning]
-    * Our forum does not require age assurance measures because [explain reasoning]
+  * Our forum requires age assurance measures because [explain reasoning]
+  * Our forum does not require age assurance measures because [explain reasoning]
 
 ### 8.3.1 Compliance Timeline:
 
