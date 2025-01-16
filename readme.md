@@ -112,7 +112,15 @@ Do any exemptions apply to your online service?
     *   [7.3 Step 3: Deciding on Measures, Implementing, and Recording](#73-step-3-deciding-on-measures-implementing-and-recording)
     *   [7.4 Step 4: Reporting, Reviewing, and Updating](#74-step-4-reporting-reviewing-and-updating)
     *   [7.5 Risk Assessment Findings](#75-risk-assessment-findings)
-8.  [Children's Access and Risk Assessment (if applicable)](#8-childrens-access-and-risk-assessment-if-applicable)
+8. [Children's Access and Risk Assessment](#8-childrens-access-and-risk-assessment)
+   * [8.1 Children's Access Assessment](#81-childrens-access-assessment)
+   * [8.2 Children's Risk Assessment](#82-childrens-risk-assessment)
+   * [8.3 Age Assurance Assessment](#83-age-assurance-assessment)
+     * [8.3.1 Compliance Timeline](#831-compliance-timeline)
+     * [8.3.2 Age Assurance Approach](#832-age-assurance-approach)
+     * [8.3.3 Technical Implementation](#833-technical-implementation)
+     * [8.3.4 Privacy and User Experience Considerations](#834-privacy-and-user-experience-considerations)
+     * [8.3.5 Documentation and Review Process](#835-documentation-and-review-process)
 9.  [Freedom of Expression, Privacy, and Encryption](#9-freedom-of-expression-privacy-and-encryption)
 10. [Record Keeping](#10-record-keeping)
 11. [Review and Updates](#11-review-and-updates)
@@ -184,33 +192,40 @@ We understand that the OSA imposes several duties on online services, including 
 
 * Risk Assessments:
 
-* Illegal Content Risk Assessment: Regularly assessing the risk of users encountering illegal content on our forum, giving particular consideration to our service's characteristics - such as its user base and functionalities and taking into account Ofcom's Risk Profiles. (See Section 7) We will prioritize "priority offences" as defined in the Act and follow Ofcom's guidance on conducting these assessments.
+    * Illegal Content Risk Assessment: Regularly assessing the risk of users encountering illegal content on our forum, giving particular consideration to our service's characteristics - such as its user base and functionalities and taking into account Ofcom's Risk Profiles. (See Section 7) We will prioritize "priority offences" as defined in the Act and follow Ofcom's guidance on conducting these assessments.
 
-* Children's Access Assessment: Assessing whether children are likely to access our forum. (See Section 8) We will use Ofcom's guidance to inform this assessment and document our decision-making process.
+    * Children's Access Assessment: Assessing whether children are likely to access our forum. (See Section 8) We will use Ofcom's guidance to inform this assessment and document our decision-making process.
 
-* Children's Risk Assessment: If children are likely to access our forum, assessing the risks of harm to children from content on our service, paying particular attention to "Primary Priority Content" and "Priority Content" as defined in the Act and detailed in Ofcom's guidance. (See Section 8)
+    * Children's Risk Assessment: If children are likely to access our forum, assessing the risks of harm to children from content on our service, paying particular attention to "Primary Priority Content" and "Priority Content" as defined in the Act and detailed in Ofcom's guidance. (See Section 8)
 
 * Duties Regarding Illegal Content:
 
-* Taking proportionate steps to mitigate and manage the risks identified in our illegal content risk assessment. We will focus on the most serious and prevalent illegal content due to our resource constraints, and we will prioritize our actions based on the likelihood and severity of harm, using Ofcom's codes of practice to guide our choices.
+    * Taking proportionate steps to mitigate and manage the risks identified in our illegal content risk assessment. We will focus on the most serious and prevalent illegal content due to our resource constraints, and we will prioritize our actions based on the likelihood and severity of harm, using Ofcom's codes of practice to guide our choices.
 
-* Operating a complaints procedure that allows for reporting of illegal content.
+    * Operating a complaints procedure that allows for reporting of illegal content.
 
-* Swiftly removing illegal content upon becoming aware of it, to the best of our ability given our limited resources and the need to prioritize the most serious cases, as guided by Ofcom's recommendations.
+    * Swiftly removing illegal content upon becoming aware of it, to the best of our ability given our limited resources and the need to prioritize the most serious cases, as guided by Ofcom's recommendations.
 
 * Duties Regarding Protection of Children (if applicable):
 
-* Taking proportionate measures to prevent children from encountering harmful content, to the extent feasible given our limited resources and technology. We will prioritize "Primary Priority Content" and "Priority Content" as defined in the Act and Ofcom's guidance, and we will use Ofcom's codes of practice to inform our approach.
+    * Taking proportionate measures to prevent children from encountering harmful content, to the extent feasible given our limited resources and technology. We will prioritize "Primary Priority Content" and "Priority Content" as defined in the Act and Ofcom's guidance, and we will use Ofcom's codes of practice to inform our approach.
 
-* Including provisions in our terms of service to protect children from harm.
+    * Including provisions in our terms of service to protect children from harm.
+
+    * Implement highly effective age assurance measures using OFCom's to be provided Protection of Children Codes and children’s risk assessment guidance in April 2025 by [July 2025](https://www.ofcom.org.uk/online-safety/protecting-children/age-checks-to-protect-children-online/) if we determine through our children's access assessment that children are likely to access our service, or if our service contains pornographic content. These measures must:
+
+        * Be technically accurate, robust, reliable, and fair in determining whether users are children
+        * Protect user privacy while maintaining effectiveness
+        * Be implemented before users can access any content requiring age verification
+        * Be regularly reviewed and updated to maintain effectiveness
 
 * Duties Regarding Freedom of Expression and Privacy:
 
-* Having particular regard to the importance of protecting users' rights to freedom of expression, as defined in the Act, when implementing safety measures. Our capacity to make nuanced judgments on "democratically important" or "journalistic" content is severely limited.
+    * Having particular regard to the importance of protecting users' rights to freedom of expression, as defined in the Act, when implementing safety measures. Our capacity to make nuanced judgments on "democratically important" or "journalistic" content is severely limited.
 
-* Considering user privacy when making decisions about content moderation and data handling. We are concerned about the potential implications of the OSA for privacy, including the provisions related to encrypted services and content scanning.
+    * Considering user privacy when making decisions about content moderation and data handling. We are concerned about the potential implications of the OSA for privacy, including the provisions related to encrypted services and content scanning.
 
-* We will prioritize our compliance efforts, focusing on the implementation of measures outlined in Ofcom's Codes of Practice where they are most applicable to our service, considering our risk assessments and resource constraints.
+    * We will prioritize our compliance efforts, focusing on the implementation of measures outlined in Ofcom's Codes of Practice where they are most applicable to our service, considering our risk assessments and resource constraints.
 
 * We understand that the duties outlined in the OSA do not extend to certain types of content or activities on combined services, as defined in section 8 of the Act. Specifically, we note that our duties do not extend to regulated provider pornographic content (if applicable), search content, or other content encountered as a result of subsequent interactions with internet services following a search request. We also note that our duties extend only to the design, operation and use of the service in the United Kingdom and the design, operation and use of the service as it affects United Kingdom users of the service.
 
@@ -1054,17 +1069,115 @@ Low
 | 16. Foreign interference offence                      | 1a. Social media services, 1b. Messaging services, 1e. Discussion forums and chat rooms, 3a. User profiles, 3a. Fake user profile, 3b. Anonymous user profiles or users without accounts, 4a. User connections, 4b. User groups, 5c. Encrypted messaging, 5e. Posting images or videos, 5g. Re-posting or forwarding content, 7b. Hyperlinking and 8. Content recommender systems.                                                                                                                                                                                                                |
 | 17. Animal cruelty                                     | 1a. Social media services, 1b. Messaging services, 4b. Group messaging, 5a. Livestreaming, 5d. Commenting on content and 5e. Posting images or videos.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-8. Children's Access and Risk Assessment (if applicable)
+## 8. Children's Access and Risk Assessment (if applicable)
 
-* **Children's Access Assessment:** Based on our forum's topic [Forum Topic], the nature of our content, and using Ofcom's guidance on conducting children's access assessments, we have assessed that [children are likely/are not likely] to access our forum. This assessment involved considering factors such as the likely user base, the presentation of the service, and the types of functionalities offered by our forum. We have documented the reasons for this conclusion, and we will review this assessment at least annually, or more frequently if there are significant changes to our forum or Ofcom's guidance.
+Our approach to protecting children involves three interconnected assessments ([details](https://www.ofcom.org.uk/online-safety/protecting-children/age-checks-to-protect-children-online/)):
 
-* **Children's Risk Assessment (if applicable):** Because [children are likely to access our forum], we have conducted a children's risk assessment, as required by the OSA. This assessment considered the types of harm that children might experience on our forum and the potential impact on them, based on our understanding of the OSA, Ofcom's guidance, and the categories of "Primary Priority Content" and "Priority Content." We have also considered any design or operational features of our forum that could increase or decrease the risk of harm to children.
+1. Children's Access Assessment: Determining whether children are likely to access our forum
+2. Children's Risk Assessment: If children are likely to access our forum, assessing potential risks
+3. Age Assurance Assessment: Evaluating and implementing appropriate age verification measures
 
 * **Our assessment has identified** [List key risks to children, if any]. We have prioritized these risks based on their severity, likelihood, and potential impact, using Ofcom's guidance on children's risk assessments.
 
 * **Mitigation Measures (if applicable):** To protect children, we have implemented the following measures: [List measures, e.g., We do not implement age verification checks due to cost prohibitions, we rely on user reports and proactive scanning as detailed in section 6, specific community guidelines for child safety]. We have based these measures on our risk assessment and Ofcom's codes of practice related to the protection of children.
 
 * **Disclaimer:** These measures are extremely limited by our resources and may not be fully effective in preventing children from accessing or encountering harmful content. We cannot guarantee the same level of protection as larger platforms with dedicated resources and technology for age assurance and content moderation. We will regularly review these measures, subject to resource availability, and update them as needed based on our assessments and Ofcom's guidance.
+
+### 8.1 **Children's Access Assessment:** 
+
+Based on our forum's topic [Forum Topic], the nature of our content, and using Ofcom's guidance on conducting children's access assessments, we have assessed that [children are likely/are not likely] to access our forum. This assessment involved considering factors such as the likely user base, the presentation of the service, and the types of functionalities offered by our forum. We have documented the reasons for this conclusion, and we will review this assessment at least annually, or more frequently if there are significant changes to our forum or Ofcom's guidance.
+
+### 8.2 **Children's Risk Assessment (if applicable):** 
+
+Because [children are likely to access our forum], we have conducted a children's risk assessment, as required by the OSA. This assessment considered the types of harm that children might experience on our forum and the potential impact on them, based on our understanding of the OSA, Ofcom's guidance, and the categories of "Primary Priority Content" and "Priority Content." We have also considered any design or operational features of our forum that could increase or decrease the risk of harm to children.
+
+### 8.3 **Age Assurance Assessment (if applicable):** 
+
+Based on our children's access assessment and the nature of our content, we have determined that [choose one]:
+
+    * Our forum requires age assurance measures because [explain reasoning]
+    * Our forum does not require age assurance measures because [explain reasoning]
+
+### 8.3.1 Compliance Timeline:
+
+Our forum will implement all required age assurance measures by [July 2025](https://www.ofcom.org.uk/online-safety/protecting-children/age-checks-to-protect-children-online/), following this timeline:
+
+* Q1 2025: Selection and testing of age assurance methods
+* Q2 2025: Technical implementation and staff training
+* Q3 2025: Full deployment and compliance monitoring
+
+### 8.3.2 Our Age Assurance Approach:
+
+We have selected the following methods based on our risk assessment, technical capabilities, and resource constraints:
+
+Primary Method: [Choose from approved methods, such as:]
+* Digital identity verification through approved third-party providers
+* Email-based age estimation
+* Photo ID matching
+
+Backup Method: [Secondary verification if primary fails]
+
+These methods have been chosen because they:
+* Meet Ofcom's criteria for being highly effective
+* Balance user privacy with child protection
+* Can be implemented within our resource constraints
+* Provide appropriate fallback options
+
+We explicitly do not rely on:
+* Self-declaration of age
+* Payment methods that don't verify age
+* Basic checkbox confirmations
+
+### 8.3.3 Technical Implementation:
+
+Our age verification system operates as follows:
+
+1. Initial Access Protocol
+* New users encounter age verification before accessing any restricted content
+* Existing users will be required to complete verification upon their next login
+* No restricted content is visible during the verification process
+
+2. Verification Process
+* Users are clearly informed about the verification requirement
+* Multiple verification options are provided where possible
+* Clear instructions guide users through each step
+* Privacy implications are explicitly stated
+
+3. Data Handling
+* Age verification data is stored securely
+* Only minimum necessary information is retained
+* Regular data review and deletion protocols are in place
+
+4. Failed Verification Handling
+* Users who fail verification receive clear explanations
+* Appeal process is available for false negatives
+* Alternative verification methods are offered where appropriate
+
+### 8.3.4 Privacy and User Experience Considerations:
+
+Our age verification implementation prioritizes:
+
+* Data Minimization: Collecting only essential information
+* User Privacy: Implementing appropriate security measures
+* Transparency: Clear communication about data usage
+* Accessibility: Ensuring verification methods work for all valid users
+* User Choice: Offering multiple verification options where possible
+
+### 8.3.5 Documentation and Review Process:
+
+We maintain comprehensive records of:
+* Age verification implementation decisions
+* Technical specifications and configurations
+* Staff training materials and completion records
+* Regular effectiveness reviews
+* Incident reports and resolution details
+
+Quarterly reviews assess:
+* Verification system effectiveness
+* User feedback and complaints
+* Technical performance metrics
+* Privacy impact assessments
+* Compliance with current regulations
 
 ## 9. Freedom of Expression, Privacy, and Encryption
 
@@ -1081,6 +1194,14 @@ We maintain records of:
 * All complaints received, including details and actions taken.
 * Risk assessments conducted and their outcomes.
 * Actions taken in response to illegal content reports.
+* We maintain detailed records of our age verification system.
+    * Implementation documentation
+    * Technical specifications
+    * Effectiveness metrics
+    * User feedback and complaints
+    * System failures and resolutions
+    * Regular review outcomes
+    * Staff training records
 
 These records are kept securely and are accessible for review as required by the OSA and data protection regulations. Due to our volunteer-run nature, record-keeping is managed using basic tools, prioritizing cases involving illegal content and child safety.
 
@@ -1173,6 +1294,18 @@ Key Considerations and Potential Adjustments:
 * **Trusted Flagger:** An individual or organization recognized by Ofcom for reliably reporting illegal content.
 
 * **Large Service:** A service which has more than 7 million monthly active United Kingdom users.
+
+* **Age Assurance:** Processes used to estimate or verify a user's age, including both age verification and age estimation methods.
+
+* **Highly Effective Age Assurance:** Methods that meet Ofcom's criteria of being technically accurate, robust, reliable, and fair in determining whether users are children.
+
+* **Age Verification:** Methods that definitively verify a user's age through documentary or biometric evidence.
+
+* **Age Estimation:** Methods that estimate a user's age through technical means or data analysis.
+
+* **Part 3 Services:** User-to-user services that must implement age assurance by July 2025 if likely to be accessed by children.
+
+* **Part 5 Services:** Services that publish pornographic content and must implement age assurance immediately.
 
 ## 16. Index of Recommended Measures
 
